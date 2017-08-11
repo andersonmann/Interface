@@ -1,4 +1,4 @@
-package interfaces;
+package estadoBinario;
 
 public class Lampada implements IEstadoBinario {
 	private int tensao;

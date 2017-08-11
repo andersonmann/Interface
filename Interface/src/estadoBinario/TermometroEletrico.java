@@ -1,4 +1,4 @@
-package interfaces;
+package estadoBinario;
 
 public class TermometroEletrico extends Termometro implements IEstadoBinario {
 

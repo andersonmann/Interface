@@ -1,4 +1,4 @@
-package interfaces;
+package estadoBinario;
 
 import java.util.ArrayList;
 
